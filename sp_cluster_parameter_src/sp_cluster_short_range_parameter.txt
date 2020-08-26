@@ -1,0 +1,3 @@
+# ShortRange 's' and 'p' in order of A and Rho
+1.1  1.2
+1.3  1.4
